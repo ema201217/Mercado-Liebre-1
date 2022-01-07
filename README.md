@@ -7,6 +7,7 @@
 ## [Mercado Liebre 7 - CRUD](https://github.com/ema201217/CRUD-1-y-2)
 ------------------------------------------------
 [Ejercitación](ejercitacion.pdf)
+-------------------------------------------
 ### Estructura del Sitio Web
 
 ![estructura imagen](gif.gif)
